@@ -3,7 +3,7 @@ layout:     post
 title:      "完美解决Windows默认程序的替换"
 subtitle:   "利用Windows映像劫持实现默认程序的动态替换"
 date:       2015-05-26 12:00
-author:     "wings27"
+author:     "cathy27"
 header-img: "img/tag-windows.jpg"
 license:    true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      To Undo a Git Command
 subtitle:   "-- The cheat sheet"
 date:       2015-09-05 11:26
-author:     wings27
+author:     cathy27
 header-img: "img/tag-git.jpg"
 tags:
     - Git

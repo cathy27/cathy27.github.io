@@ -3,7 +3,7 @@ layout:     post
 title:      多说分享插件显示undefined的解决方案
 subtitle:   ""
 date:       2016-07-12 19:20
-author:     wings27
+author:     cathy27
 header-img: "img/tag-javascript.jpg"
 tags:
     - javascript
@@ -56,7 +56,7 @@ $(document).one('mouseover', 'li[data-toggle="ds-share-icons-more"]', function (
 });
 ```
 
-完整代码可以参考我的github: [wings27-blog.js](https://github.com/wings27/wings27.github.io/blob/master/js/wings27-blog.js#L67)
+完整代码可以参考我的github: [cathy27-blog.js](https://github.com/cathy27/cathy27.github.io/blob/master/js/cathy27-blog.js#L67)
 
 最终效果：
 

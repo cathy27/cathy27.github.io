@@ -1,20 +1,20 @@
 # Site settings
-name: wings27-blog
-title: Wings27 Blog
-SEOTitle: Wings27 Blog | Practice makes perfect.
+name: cathy27-blog
+title: cathy27 Blog
+SEOTitle: cathy27 Blog | Practice makes perfect.
 header-img: img/home-bg.jpg
 email: wenqs27@gmail.com
 description: "Practice makes perfect."
-keyword: "IT, Programmer, Blog, Wings27"
-url: "http://wings27.github.io"
+keyword: "IT, Programmer, Blog, cathy27"
+url: "http://cathy27.github.io"
 
 
 
 # SNS settings
 RSS: true
-github_username:    wings27
+github_username:    cathy27
 facebook_username:  wenqiushi
-zhihu_username:     wings27
+zhihu_username:     cathy27
 
 
 
@@ -39,10 +39,10 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: wings27blog           # uncomment to use.
+#disqus_username: cathy27blog           # uncomment to use.
 
 # Duoshuo settings
-duoshuo_username: wings27blog
+duoshuo_username: cathy27blog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -53,7 +53,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 120193a1e238d1cf4ef681306cde929b
 # Google Analytics
 ga_track_id: 'UA-80662619-1'            # Format: UA-xxxxxx-xx
-ga_domain: wings27.github.io
+ga_domain: cathy27.github.io
 
 
 

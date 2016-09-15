@@ -3,7 +3,7 @@ layout:     post
 title:      "VirtualBox网络配置详解"
 subtitle:   "虚拟机连外网，主机与虚拟机互联，虚拟机与虚拟机互联"
 date:       2016-07-28 00:00
-author:     "wings27"
+author:     "cathy27"
 header-img: "img/tag-linux.jpg"
 license:    true
 tags:

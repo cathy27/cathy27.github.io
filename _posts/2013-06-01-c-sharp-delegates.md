@@ -3,7 +3,7 @@ layout:     post
 title:      "C#跨线程修改控件"
 subtitle:   "——从MSIL和汇编看事件委托"
 date:       2013-06-01 12:00
-author:     "wings27"
+author:     "cathy27"
 header-img: "img/tag-windows.jpg"
 tags:
     - CSharp
